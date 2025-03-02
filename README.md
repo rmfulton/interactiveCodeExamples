@@ -1,2 +1,2 @@
 # References
-This repo was forked off of [jupyterlite](https://github.com/jupyterlite/demo)
+This repo was templated off of [jupyterlite](https://github.com/jupyterlite/demo)
